@@ -4,7 +4,8 @@
   "nxCloudAccessToken": "Y2U1NjM1YjEtOGQ4NC00OWZjLWExYTYtYWRkODI4MGVlZmY5fHJlYWQtd3JpdGU=",
   "targetDefaults": {
     "build": {
-      "dependsOn": ["^build"]
+      "dependsOn": ["^build"],
+      "cache": true
     }
   }
 }
